@@ -1,2 +1,1 @@
-# ACIT 1620 Set-1A
-# OK
+# ACIT 1620 Set 1A
